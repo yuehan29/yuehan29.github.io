@@ -1,0 +1,16 @@
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+    width: auto;
+    max-height: 768px;
+    margin: auto;
+}
+    
+/* Opacity #1 */
+.hover11 figure img {
+    opacity: 1;
+    -webkit-transition: .3s ease-in-out;
+    transition: .3s ease-in-out;
+}
+.hover11 figure:hover img {
+    opacity: .5;
+}
