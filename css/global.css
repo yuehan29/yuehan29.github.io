@@ -17,7 +17,7 @@ body {
 .navbar{
     border-color: transparent;
 }
-.transparent80{
+.navbarCustom{
     background:rgba(0,0,0,0.8);
 }
 
