@@ -16,7 +16,6 @@ body {
 
 .navbar{
     border-color: transparent;
-    margin-bottom: 48pt;
 }
 .transparent80{
     background:rgba(0,0,0,0.8);
@@ -87,5 +86,23 @@ body {
 }
 
 .footer-container {
+    margin-top: 24pt;
+}
+
+.logo {
+    text-align: center;
+    margin-top: 48pt;
+}
+
+.plain {
+    color: white;
+}
+
+.title {
+    margin-top: 24pt;
+    margin-bottom: 12pt;
+}
+
+#timeline {
     margin-top: 24pt;
 }
