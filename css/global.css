@@ -17,11 +17,11 @@ body {
 .navbar{
     border-color: transparent;
 }
-.navbarCustom{
+.custom-navbar{
     background:rgba(0,0,0,0.8);
 }
 
-.transparent60{
+.text-container-background{
     background:rgba(0,0,0,0.6);
 }
 
@@ -92,6 +92,13 @@ body {
 .logo {
     text-align: center;
     margin-top: 48pt;
+    height: 50%;
+    width: auto;
+
+    /* Switch file */
+    background: url('../pictures/signs/pre.png') no-repeat;
+    background-size: auto 100%;
+    background-position: center;
 }
 
 .plain {
@@ -101,8 +108,25 @@ body {
 .title {
     margin-top: 24pt;
     margin-bottom: 12pt;
+    text-align: center;
 }
 
 #timeline {
     margin-top: 24pt;
+}
+
+.actBlock {
+    padding-bottom: 12pt;
+}
+
+.arrow {
+    width: 40px;
+    height: 40px;
+    margin: auto;
+    padding-bottom: 12pt;
+
+    background: url('../pictures/arrow.png') no-repeat;
+    background-size: auto 100%;
+    background-position: center;
+
 }
