@@ -30,17 +30,20 @@ a:focus {
 .navbar{
     border-color: transparent;
 }
-.custom-navbar{
+
+.custom-navbar {
     background:rgba(0,0,0,0.8);
 }
 
-.text-container-background{
+.text-container-background {
     padding-top: 10pt;
     padding-bottom: 10pt;
     background:rgba(0,0,0,0.6);
 }
 
-.navbar li {color: #ffffff;}
+.navbar li {
+    color: #ffffff;
+}
 
 .twink:hover {
     color: #BDC0BA;
@@ -49,6 +52,7 @@ a:focus {
 .popover-title {
     font-family: PingFang TC, Heiti TC, Microsoft JhengHei, sans-serif;
 }
+
 .popover-content {
     font-family: PingFang TC, Heiti TC, Microsoft JhengHei, sans-serif;
 }
@@ -105,6 +109,8 @@ a:focus {
 }
 
 .but {
+    margin-top: 12pt;
+    margin-bottom: 12pt;
     border-radius: 300px;
 }
 
