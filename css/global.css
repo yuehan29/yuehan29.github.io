@@ -124,6 +124,10 @@ a:focus {
     text-align: center;
 }
 
+.leader {
+    padding-bottom: 16pt;
+}
+
 /* Ids */
 
 #fade {
